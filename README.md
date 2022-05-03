@@ -1,1 +1,1 @@
-# xKyopie-Exemplo_Nuxt.js
+# Exemplo_Nuxt.js
