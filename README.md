@@ -1,1 +1,1 @@
-# xExemplo_Nuxt.js
+# Exemplo_Nuxt.js
